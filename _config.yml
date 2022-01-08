@@ -1,14 +1,14 @@
 theme:              jekyll-theme-cayman
-title:              Hi I'm Ajay Malekar
-email:              ajaymalekar@gmail.com
-author:             ajaymalekar
+title:              "Hi I'm Ajay Malekar"
+email:              "ajaymalekar@gmail.com"
+author:             "ajaymalekar"
  
 baseurl:            ""
 url:                "https://ajaymalekar.github.io"
 
 # Social Profiles
-twitter_username:   linkajay
-github_username:    ajaymalekar
-facebook_username:  ajaymalekar
+twitter_username:   "linkajay"
+github_username:    "ajaymalekar"
+facebook_username:  "ajaymalekar"
 instagram_username:  
-linkedin_username:  ajaymalekar
+linkedin_username:  "ajaymalekar"
