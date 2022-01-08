@@ -1,2 +1,23 @@
+title:              Ajay Malekar
+email:              ajaymalekar#gmail.com
+description:        site using bootstrap
+author:             Ajay Malekar
+baseurl:            ""
+url:                "https://ajaymalekar.github.io"
+
+# Social Profiles
+twitter_username:   LinkAjay
+github_username:    AjayMalekar
+facebook_username:  AjayMalekar
+instagram_username:  
+linkedin_username: Ajay Malekar
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
 sass:
 sass_dir: assets/css
+plugins:
+  - jekyll-autoprefixer
+  - jekyll-seo-tag
+  - jekyll-sitemap
