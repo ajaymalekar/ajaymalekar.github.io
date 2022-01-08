@@ -11,3 +11,5 @@ github_username:    "ajaymalekar"
 facebook_username:  "ajaymalekar"
 instagram_username:  "ajaymalekar"
 linkedin_username:  "ajaymalekar"
+sass:
+  sass_dir: assets/css
