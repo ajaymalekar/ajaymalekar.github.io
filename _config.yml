@@ -17,7 +17,7 @@ linkedin_username:  "AjayMalekar"
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 sass:
-sass_dir: assets/css
+  sass_dir: assets/css
 plugins:
   - jekyll-autoprefixer
   - jekyll-seo-tag
