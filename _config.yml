@@ -1,7 +1,6 @@
 theme:              jekyll-theme-cayman
 title:              Ajay Malekar's Gitpage
 email:              ajaymalekar@gmail.com
-description:        My Git Page 
 author:             Start Bootstrap
 baseurl:            ""
 url:                "https://ajaymalekar.github.io"
