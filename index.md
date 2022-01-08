@@ -1,3 +1,1 @@
-## Welcome to my Git Page!
-
 I’m passionate about engaging and hiring great talented people around the world, who love using technology to create great products and services to make the world a better place. I have over a decade of experience in strategizing innovative ways to engage, hire Talent for small startups to the world’s biggest brand. My interests range from entrepreneurship to technology. I am also interested in reading, travel, and photography. I am an avid web-surfer, Crazy about Day Trading and am excited to connect with you!
