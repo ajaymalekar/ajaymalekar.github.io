@@ -1,16 +1,17 @@
-title:              Ajay Malekar
-email:              ajaymalekar#gmail.com
-description:        site using bootstrap
-author:             Ajay Malekar
+title:              "Ajay Malekar"
+tagline:            "An awesome tagline"
+email:              "ajaymalekar#gmail.com"
+description:        "My site using bootstrap"
+author:            "Ajay Malekar"
 baseurl:            ""
 url:                "https://ajaymalekar.github.io"
 
 # Social Profiles
-twitter_username:   LinkAjay
-github_username:    AjayMalekar
-facebook_username:  AjayMalekar
+twitter_username:   "LinkAjay"
+github_username:    "AjayMalekar"
+facebook_username:  "AjayMalekar"
 instagram_username:  
-linkedin_username: Ajay Malekar
+linkedin_username:  "AjayMalekar"
 
 # Add your google-analytics ID here to activate google analytics
 google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
