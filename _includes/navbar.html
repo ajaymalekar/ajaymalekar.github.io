@@ -1,4 +1,5 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar sticky-top navbar-expand-lg navbar-light bg-light">
+    <div class="container-fluid">
   <a class="navbar-brand" href="https://ajaymalekar.github.io">Ajay Malekar</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -7,7 +8,8 @@
     <div class="navbar-nav justify-content-end">
       {% for item in site.data.navbar %}
       <a class="nav-item nav-link" href="{{item.link}}">{{ item.name }}</a>
-      {% endfor %}  
+      {% endfor %} 
+      </div>
     </div>
   </div>
 </nav>
